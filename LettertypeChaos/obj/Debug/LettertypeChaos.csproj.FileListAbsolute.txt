@@ -1,0 +1,10 @@
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.csprojAssemblyReference.cache
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.Form1.resources
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.Properties.Resources.resources
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.csproj.GenerateResource.cache
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.csproj.CoreCompileInputs.cache
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\bin\Debug\LettertypeChaos.exe.config
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\bin\Debug\LettertypeChaos.exe
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\bin\Debug\LettertypeChaos.pdb
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.exe
+A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.pdb
