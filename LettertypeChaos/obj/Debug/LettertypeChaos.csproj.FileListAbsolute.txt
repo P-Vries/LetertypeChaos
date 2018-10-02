@@ -8,3 +8,13 @@ A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos
 A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\bin\Debug\LettertypeChaos.pdb
 A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.exe
 A:\C#\ITVitae\Opdracht 6 Lettertype Chaos (Rood)\LettertypeChaos\LettertypeChaos\obj\Debug\LettertypeChaos.pdb
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\bin\Debug\LettertypeChaos.exe.config
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\bin\Debug\LettertypeChaos.exe
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\bin\Debug\LettertypeChaos.pdb
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\obj\Debug\LettertypeChaos.csprojAssemblyReference.cache
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\obj\Debug\LettertypeChaos.Form1.resources
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\obj\Debug\LettertypeChaos.Properties.Resources.resources
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\obj\Debug\LettertypeChaos.csproj.GenerateResource.cache
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\obj\Debug\LettertypeChaos.csproj.CoreCompileInputs.cache
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\obj\Debug\LettertypeChaos.exe
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 4 rood\LetertypeChaos-master\LettertypeChaos\obj\Debug\LettertypeChaos.pdb

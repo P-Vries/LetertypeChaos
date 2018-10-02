@@ -16,6 +16,7 @@ namespace LettertypeChaos
         {
             InitializeComponent();
         }
+        Random rnd = new Random();//Hier maken we een Random number generator aan die we rnd noemen.
 
         //
         //Methodes
@@ -40,7 +41,7 @@ namespace LettertypeChaos
                 Font font8 = new Font("Arial", 6, FontStyle.Italic);
                 rtb.SelectionStart = index;//Hier selecteren we een deel van de textbox.
                 rtb.SelectionLength = 1;// Hier zeggen we hoelang de selectie is in dit geval 1
-                Random rnd = new Random();//Hier maken we een Random number generator aan die we rnd noemen.
+
                 byte rando = (byte)rnd.Next(1, 8);//Hier maken we een willekeurig nummer aan tussen 1 en 8.
                 //Hier kijken we welk nummer er uitkomt en stemmen daar de font op af.
                 if (rando == 1) { rtb.SelectionFont = font1; }
